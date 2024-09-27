@@ -1,0 +1,177 @@
+---
+title: "Geographical and Bias-Specific Trends in Hate Crimes"
+subtitle: "An Analysis of Hate Crimes in Toronto"
+author: "Arshh Relan"
+thanks: "Code and data are available at: https://github.com/Arshh-Relan/hate_crimes_in_toronto"
+date: today
+date-format: long
+abstract: "This paper explores geographical and bias-specific trends in hate crimes across Toronto from 2018 to the present. We analyze the split of motivating factors, the distribution of hate crimes across neighborhoods, and trends in the most common hate crimes. The aim is to allow for an understanding of deeper rooted issues, a guiding light for citien safety and a reflection of society that can inform policy decisions."
+format:
+  pdf:
+    number-sections: true
+    toc: true
+    toc-depth: 2
+bibliography: references.bib
+---
+
+
+
+
+```{r}
+#| include: false
+#| warning: false
+#| message: false
+
+library(tidyverse)
+library(here)
+
+# Load the cleaned hate crimes data
+cleaned_data <- read_csv(here::here("data/analysis_data/cleaned_hate_crimes_data.csv"))
+```
+
+
+# Introduction
+
+Hate crimes are an important area of study, as they reflect deep-seated social issues and can have wide-ranging impacts on the affected communities. In Toronto, the reporting of hate crimes has helped policymakers and law enforcement agencies understand the underlying trends and devise strategies to mitigate such occurrences. Understanding the trends in hate crimes over time is key to addressing bias and ensuring safety for marginalized groups.
+
+This paper aims to analyze the hate crimes in Toronto between 2018 and the present. Specifically, we will focus on the types of biases that motivate these crimes, how they differ across neighborhoods, and where the most common types of hate crimes occur. This study will help to identify shifts in crime patterns and inform targeted interventions to address hate crimes in the city.
+
+
+
+
+# Data
+
+The data used in this study was sourced from the [City of Toronto's Open Data portal](https://open.toronto.ca/), specifically the Hate Crimes Open Data dataset. The dataset contains records of hate crimes reported from 2018 to the present, and it includes information such as the occurrence date, neighborhood, motivating bias (racial, religious, gender, etc.), and other relevant variables.
+
+The data was provided in CSV format. The following R packages were used to read and clean the data:
+- `tidyverse`: For data manipulation and visualization.
+- `janitor`: For cleaning column names and removing unnecessary data.
+- `here`: For managing file paths.
+- `opendatatoronto`: For downloading the dataset directly from the Open Data portal.
+
+The original dataset contained various fields, such as occurrence date, neighborhood, and bias types. These fields were cleaned and standardized for analysis. Missing values were dropped, and new columns were derived for the visualizations.
+
+### Data Cleaning and Packages Used
+
+The data was cleaned using `dplyr` from the `tidyverse` package. Unnecessary columns were removed, and new variables such as `bias_type` were created by combining several fields. These steps helped prepare the data for the visualizations and analyses used throughout the paper.
+
+In generating the final paper, the following R packages were used for the figures and formatting:
+- `ggplot2`: For generating all the visualizations.
+- `here`: For managing file paths and ensuring data is correctly loaded.
+- `quarto`: For rendering the final paper in PDF format.
+
+## Measurement
+
+The following key variables were used in this study:
+
+- **Bias Type**: This column represents the motivating factor behind each hate crime (e.g., racial, religious, gender). It was crucial to understanding the underlying causes of hate crimes in different periods.
+- **Division**: This column represents the neighborhood or division where the crime occurred. Analyzing this variable helped us understand how hate crimes are distributed across the city.
+- **Occurrence Year**: This column records the year the hate crime occurred, allowing for a comparison between 2018 and the present.
+
+These variables were crucial in understanding the trends and generating visualizations, which are explored in the following sections.
+
+## Present vs. 2018 - Motivating Factors Behind Hate Crimes
+
+In this section, we analyze the motivating factors behind hate crimes in Toronto, focusing on how the types of bias have changed between 2018 and the present year. Understanding the shifts in the underlying causes of hate crimes can help identify key trends and inform future policy.
+
+The dataset includes a column `bias_type`, which records the reason behind each hate crime, such as racial bias, religious bias, or gender bias. We compare the distribution of these bias types across two key years: 2018 and the present year. The following stacked bar chart shows the relative proportion of each bias type in these two periods.
+
+```{r}
+#| label: fig-bias-comparison
+#| fig-cap: Bias Types in 2018 vs Present
+#| echo: false
+
+# Filter the data for 2018 and the present year (assuming present year is 2023)
+cleaned_data %>%
+  filter(occurrence_year %in% c(2018, 2023)) %>%
+  ggplot(aes(x = factor(occurrence_year), fill = bias_type)) +
+  geom_bar(position = "fill", alpha = 0.8) +
+  theme_minimal() +
+  labs(x = "Year", y = "Proportion of Hate Crimes", fill = "Bias Type") +
+  scale_fill_brewer(palette = "Set1") +
+  coord_flip()
+```
+
+The stacked bar chart compares the proportions of different bias types across 2018 and 2023. This allows us to see how the distribution of hate crimes based on racial, religious, and other types of biases has shifted over time. The bias_type column was used to categorize each hate crime, while the occurrence_year column allows for the comparison between the two years.
+
+From the chart, it can be observed that there has been a significant change in the proportions of hate crimes. Religious tolerance seems to have increased, we see this reflected by the fact the religious hate crimes now have a smaller proportion. However, there is growing intolerance for differences in sexual orientation. Interestingly, hate crimes based on gender have reduced as a proportion. Racially motivated hate crimes have increased. These trends highlight important changes in the social dynamics of Toronto over the last few years.
+
+
+## Present vs. 2018 - Divisional Trends
+
+In this section, we examine the distribution of hate crimes across different divisions in Toronto, focusing on how the total number of hate crimes has changed between 2018 and the present year. Each division is constituted of multiple neighbourhoods. This division is done to make it easier for Toronot Police to carry out their duties. This analysis helps us understand whether certain neighborhoods have experienced significant changes in the number of reported hate crimes.
+
+The dataset contains the `division` column, which represents the neighborhoods where the hate crimes occurred, and the `occurrence_year` column, which records the year. By comparing 2018 with the present year (assumed to be 2023), we can observe the shifts in hate crime reports across different neighborhoods.
+
+The following bar chart shows the total number of hate crimes reported in each neighborhood for both years.
+
+```{r}
+#| label: fig-neighborhood-comparison
+#| fig-cap: Total Hate Crimes by Division in 2018 vs Present
+#| echo: false
+
+# Filter the data for 2018 and the present year (assuming present year is 2023)
+cleaned_data %>%
+  filter(occurrence_year %in% c(2018, 2023)) %>%
+  ggplot(aes(x = division, fill = factor(occurrence_year))) +
+  geom_bar(position = "dodge", alpha = 0.8) +
+  theme_minimal() +
+  labs(x = "Division", y = "Total Hate Crimes", fill = "Year") +
+  coord_flip()
+```
+
+This bar chart compares the total number of hate crimes reported in each neighborhood between 2018 and 2023. The division column represents each neighborhood, while the occurrence_year column is used to differentiate between the two years.
+
+From the chart, we can observe that the division D32 has seen a huge increase in total hate crime. This division is geographically close to York University, making this a point of concern for the student community in the area. These trends highlight important shifts in hate crime reports across Toronto’s neighborhoods, and they may reflect changing social or demographic dynamics in these areas.A key call out is also, hate crimes have increased in all divisions.
+
+## Most Common Hate Crimes by Division
+
+In this section, we focus on the two most frequently occurring hate crimes in the dataset and analyze the neighborhoods where these crimes are reported the most. Understanding the geographical distribution of these crimes can help identify areas that may need targeted interventions.
+
+The dataset contains the `primary_offence` column, which records the specific hate crime offense, and the `division` column, which identifies the neighborhood. The following bar chart shows the count of hate crimes for the two most common offenses, grouped by neighborhood.
+
+```{r}
+#| label: fig-most-common-crimes
+#| fig-cap: Most Common Hate Crimes by Division
+#| echo: false
+
+# Identify the two most common hate crime offenses
+common_crimes <- cleaned_data %>%
+  count(primary_offence, sort = TRUE) %>%
+  slice(1:2) %>%
+  pull(primary_offence)
+
+# Filter data for the two most common offenses and create the chart
+cleaned_data %>%
+  filter(primary_offence %in% common_crimes) %>%
+  ggplot(aes(x = division, fill = primary_offence)) +
+  geom_bar(position = "dodge", alpha = 0.8) +
+  theme_minimal() +
+  labs(x = "Division", y = "Count of Hate Crimes", fill = "Offense") +
+  
+  coord_flip()
+```
+
+The bar chart above shows the distribution of the two most common hate crimes across Toronto's neighborhoods. Each bar represents the count of hate crimes in a given neighborhood, with separate bars for each of the two most frequent offenses.
+
+The analysis shows that while D32 seems to have the most hate crime a lot of is targeted towards property whereas division D51 seems to be most prone to assault cases.. This highlights the concentration of specific hate crimes in certain parts of the city, which may require focused attention from policymakers.
+
+
+# Discussion
+
+This study aimed to analyze the trends in hate crimes reported in Toronto from 2018 to the present, focusing on the motivating factors, geographical distribution, and the neighborhoods where the most common hate crimes occur. We found that religious bias remains the most common motivating factor behind hate crimes, with a notable increase in racial and gender-related hate crimes in 2023 compared to 2018. Furthermore, certain neighborhoods showed significant changes in hate crime reports over time, indicating possible shifts in the local social dynamics or demographic composition.
+
+The findings of this study suggest several important policy implications. Targeted interventions may be necessary in neighborhoods where hate crimes have increased, particularly for crimes motivated by racial and religious biases. These areas could benefit from community engagement programs, educational initiatives, and increased law enforcement presence to mitigate hate crimes. Additionally, the rise in gender-related hate crimes highlights the need for greater awareness and protections for marginalized communities, including women and LGBTQ+ individuals, in both public and private spaces.
+
+However, this study has some limitations. The dataset does not contain detailed demographic information about the neighborhoods, making it difficult to determine whether changes in population characteristics are linked to changes in hate crime trends. Future research could incorporate census data to examine whether shifts in demographic composition correlate with the changes in hate crime reports. Moreover, the dataset only includes reported crimes, meaning that underreporting could obscure the full picture of hate crimes in Toronto. Addressing these limitations in future studies could provide a more comprehensive understanding of the factors driving hate crimes in the city.
+
+# References
+
+- R Core Team (2024). *R: A language and environment for statistical computing*. R Foundation for Statistical Computing, Vienna, Austria. Available at: https://www.R-project.org/
+  
+- Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L., François, R., Grolemund, G., Hayes, A., Henry, L., Hester, J., Kuhn, M., Pedersen, T. L., Miller, E., Bache, S. M., Müller, K., Ooms, J., Robinson, D., Seidel, D. P., Spinu, V., Takahashi, K., Vaughan, D., Wilke, C., Woo, K., & Yutani, H. (2019). *Welcome to the tidyverse*. Journal of Open Source Software, 4(43), 1686. https://doi.org/10.21105/joss.01686
+
+- City of Toronto Open Data. (2024). *Hate Crimes Open Data*. Available at: https://open.toronto.ca/dataset/hate-crimes-open-data/
+
+- Xie, Y., Allaire, J. J., & Grolemund, G. (2018). *R Markdown: The Definitive Guide*. Available at: https://bookdown.org/yihui/rmarkdown/
+
