@@ -18,4 +18,4 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-Aspects of this code were generated using the assistance of ChatGpt-4o. Specifically with debugging and writing tests.
+Aspects of this code were generated using the assistance of ChatGpt-4o. Specifically with debugging and writing tests. The chats were copied and pasted into a word document which was saved as a txt file and uploaded.
