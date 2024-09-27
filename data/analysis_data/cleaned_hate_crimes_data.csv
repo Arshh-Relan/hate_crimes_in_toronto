@@ -1,0 +1,1351 @@
+occurrence_year,occurrence_date,division,age_bias,race_bias,religion_bias,sexual_orientation_bias,gender_bias,primary_offence,arrest_made,bias_type
+2018,2018-01-03,D13,NO,NA,Jewish,NA,NA,Wilful Promotion of Hatred,NO,Religious
+2018,2018-01-08,D53,NO,NA,Muslim,NA,NA,Assault,YES,Religious
+2018,2018-01-10,D14,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-01-19,D12,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-01-19,D52,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2018,2018-01-26,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-01-27,D51,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-02-01,D13,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2018,2018-02-01,D12,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2018,2018-02-02,D52,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-02-05,D43,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-02-12,D51,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2018,2018-02-13,NSA,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-02-16,D53,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2018,2018-02-17,D22,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault,NO,Gender
+2018,2018-02-20,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-02-21,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-02-22,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-02-23,D51,NO,NA,NA,NA,NA,Assault,YES,Age
+2018,2018-02-24,D32,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-02-27,D52,NO,Black,NA,NA,NA,Assault,YES,Racial
+2018,2018-03-01,D31,NO,NA,NA,NA,NA,Criminal Harassment,NO,Age
+2018,2018-03-05,D31,NO,Black,NA,NA,NA,Mischief Interfere With Property,NO,Racial
+2018,2018-03-06,D53,NO,Black,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2018,2018-03-06,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2018,2018-03-09,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-03-16,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-03-22,D31,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-03-27,D13,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2018,2018-03-28,D12,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-03-28,D31,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2018,2018-04-08,D22,NO,NA,NA,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Age
+2018,2018-04-12,D51,NO,NA,NA,NA,Woman,Assault With a Weapon,YES,Gender
+2018,2018-04-13,D51,NO,Black,NA,NA,NA,Criminal Harassment,NO,Racial
+2018,2018-04-13,D52,NO,NA,NA,NA,Woman,Assault Causing Bodily Harm,YES,Gender
+2018,2018-04-14,D52,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2018,2018-04-15,D51,NO,NA,NA,NA,Woman,Assault,YES,Gender
+2018,2018-04-16,D52,NO,NA,NA,NA,Woman,Assault With a Weapon,YES,Gender
+2018,2018-04-19,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-04-20,D51,NO,Black,NA,NA,NA,Assault,NO,Racial
+2018,2018-04-20,D41,NO,Black,"Jewish, Muslim",NA,NA,Mischief Interfere With Property,NO,Racial
+2018,2018-04-22,D22,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2018,2018-04-25,D53,NO,NA,Muslim,NA,NA,Mischief Under $5000,YES,Religious
+2018,2018-04-26,D55,NO,NA,Muslim,Lesbian,NA,Assault,NO,Religious
+2018,2018-04-28,D13,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2018,2018-05-05,D43,NO,NA,NA,NA,NA,Assault,NO,Age
+2018,2018-05-14,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-05-16,NSA,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Age
+2018,2018-05-17,D52,NO,NA,Muslim,NA,NA,Mischief Interfere With Property,NO,Religious
+2018,2018-05-19,D33,NO,Black,NA,NA,NA,Assault With a Weapon,YES,Racial
+2018,2018-05-21,D43,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-05-24,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-05-29,D23,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2018,2018-05-29,D13,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2018,2018-05-31,D55,NO,"Black, White",NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2018,2018-05-31,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-06-01,D53,NO,NA,Christian Orthodox,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2018,2018-06-06,D31,NO,NA,Muslim,NA,Woman,Assault,YES,Religious
+2018,2018-06-06,D31,NO,NA,Muslim,NA,Woman,Assault,YES,Religious
+2018,2018-06-06,D31,NO,NA,Muslim,NA,Woman,Assault,YES,Religious
+2018,2018-06-07,D31,NO,NA,Muslim,NA,Woman,Assault,YES,Religious
+2018,2018-06-12,D55,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2018,2018-06-22,D32,NO,NA,NA,NA,NA,Uttering Threats - Property,YES,Age
+2018,2018-06-23,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-06-24,D52,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2018,2018-06-26,D51,NO,NA,NA,2SLGBTQ+,NA,Arson,NO,Sexual Orientation
+2018,2018-06-26,D31,NO,NA,NA,Gay,NA,Public Incitement of Hatred ,NO,Sexual Orientation
+2018,2018-06-27,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-06-29,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-07-04,D51,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2018,2018-07-10,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-07-14,D32,NO,NA,NA,NA,NA,Assault,NO,Age
+2018,2018-07-21,D32,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2018,2018-07-23,D52,NO,NA,Muslim,NA,NA,Assault,YES,Religious
+2018,2018-07-23,D32,NO,NA,Jewish,NA,NA,Theft,NO,Religious
+2018,2018-07-24,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-07-26,D51,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2018,2018-07-29,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-07-31,D14,NO,NA,"Christian Orthodox, Jewish",NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2018,2018-08-02,D51,NO,NA,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Religious
+2018,2018-08-03,D22,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-08-03,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-08-08,D53,NO,NA,NA,2SLGBTQ+,NA,Assault With a Weapon,NO,Sexual Orientation
+2018,2018-08-09,D42,NO,NA,Muslim,NA,NA,Assault,YES,Religious
+2018,2018-08-11,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-08-12,D12,NO,NA,NA,NA,Transgender Man (Identifies As Man),Assault,NO,Gender
+2018,2018-08-14,D22,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-08-14,D32,NO,NA,Jewish,NA,NA,Indecent Communications,YES,Religious
+2018,2018-08-19,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-08-20,D22,NO,Black,NA,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Racial
+2018,2018-08-21,D32,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2018,2018-08-22,D51,NO,Black,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2018,2018-08-25,D22,NO,NA,NA,NA,NA,Assault With a Weapon,NO,Age
+2018,2018-08-27,D43,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-08-30,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-08-31,D53,NO,NA,NA,2SLGBTQ+,NA,Assault,NO,Sexual Orientation
+2018,2018-09-04,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-09-04,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-09-05,D12,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-09-15,D52,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2018,2018-09-19,D31,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2018,2018-09-20,D14,NO,NA,NA,2SLGBTQ+,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Sexual Orientation
+2018,2018-09-21,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-09-21,D22,NO,Black,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2018,2018-10-01,D31,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-10-02,D42,NO,NA,NA,NA,NA,Indecent Communications,NO,Age
+2018,2018-10-04,D32,NO,NA,Jewish,NA,NA,Indecent Communications,NO,Religious
+2018,2018-10-05,D13,NO,NA,NA,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Age
+2018,2018-10-07,D13,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2018,2018-10-07,D22,NO,Black,NA,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Racial
+2018,2018-10-08,NSA,NO,Black,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2018,2018-10-09,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-10-22,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,YES,Religious
+2018,2018-10-25,D14,NO,Indigenous,NA,NA,NA,Assault,NO,Racial
+2018,2018-10-26,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-10-27,D11,NO,NA,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Religious
+2018,2018-10-27,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-10-29,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-10-30,D33,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-10-30,D52,NO,NA,NA,NA,Woman,Criminal Harassment,YES,Gender
+2018,2018-11-04,D51,NO,NA,NA,2SLGBTQ+,NA,Assault With a Weapon,YES,Sexual Orientation
+2018,2018-11-04,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-11-08,D42,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2018,2018-11-10,D14,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2018,2018-11-11,D13,NO,NA,Jewish,NA,NA,Robbery,NO,Religious
+2018,2018-11-18,D55,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2018,2018-11-19,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-11-21,D31,NO,White,NA,NA,NA,Assault,NO,Racial
+2018,2018-11-22,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2018,2018-11-26,D13,NO,NA,Jewish,NA,NA,Criminal Harassment,NO,Religious
+2018,2018-12-05,D32,NO,NA,Muslim,NA,NA,Criminal Harassment,NO,Religious
+2018,2018-12-06,D14,NO,NA,Jewish,NA,NA,Criminal Harassment,NO,Religious
+2018,2018-12-08,D31,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2019,2019-01-01,D41,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-01-12,D52,NO,NA,NA,NA,NA,Assault,NO,Age
+2019,2019-01-16,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-01-23,D31,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-01-25,D51,NO,NA,NA,NA,"Transgender, Transgender Woman (Identifies As Woman)",Assault,YES,Gender
+2019,2019-01-26,NSA,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2019,2019-01-27,D13,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2019,2019-02-07,D14,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",YES,Religious
+2019,2019-02-11,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-02-22,D22,NO,NA,NA,NA,Transgender,Mischief Under $5000,NO,Gender
+2019,2019-02-23,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-02-26,D11,NO,Black,NA,NA,Transgender,Mischief Under $5000,NO,Racial
+2019,2019-02-27,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-03-02,D41,NO,NA,NA,NA,NA,Assault,NO,Age
+2019,2019-03-02,D12,NO,NA,NA,2SLGBTQ+,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2019,2019-03-09,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2019,2019-03-10,D51,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Uttering Threats - Bodily Harm,YES,Gender
+2019,2019-03-14,D52,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2019,2019-03-15,D14,NO,NA,NA,NA,Transgender,Wilful Promotion of Hatred,NO,Gender
+2019,2019-03-16,D31,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-03-18,D32,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2019,2019-03-23,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-03-25,D31,NO,Black,NA,NA,NA,Criminal Harassment,NO,Racial
+2019,2019-04-06,D41,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2019,2019-04-08,D42,NO,NA,Muslim,NA,NA,Criminal Harassment,NO,Religious
+2019,2019-04-09,D41,NO,NA,Muslim,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2019,2019-04-10,D14,NO,NA,Muslim,NA,NA,Criminal Harassment,NO,Religious
+2019,2019-04-10,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-04-13,NSA,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2019,2019-04-21,D55,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2019,2019-04-25,D51,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-04-30,D32,NO,East/Southeast Asian,NA,NA,NA,Criminal Harassment,NO,Racial
+2019,2019-05-05,D51,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-05-07,D51,NO,NA,NA,2SLGBTQ+,NA,Criminal Harassment,NO,Sexual Orientation
+2019,2019-05-09,D31,NO,NA,"Jewish, Muslim",NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-05-10,D52,NO,NA,Sikh,NA,NA,Assault,NO,Religious
+2019,2019-05-10,D55,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2019,2019-05-12,D14,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Disturbing Religious Worship Or Certain Meetings,NO,Gender
+2019,2019-05-15,D52,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-05-17,D22,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2019,2019-05-17,D43,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2019,2019-05-19,D22,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-05-20,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2019,2019-05-22,NSA,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-05-28,D51,NO,Black,NA,NA,NA,Assault,NO,Racial
+2019,2019-05-29,D14,NO,NA,NA,2SLGBTQ+,NA,Criminal Harassment,NO,Sexual Orientation
+2019,2019-05-31,D51,NO,NA,Muslim,2SLGBTQ+,Woman,Criminal Harassment,NO,Religious
+2019,2019-05-31,D42,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2019,2019-06-01,D43,NO,NA,NA,2SLGBTQ+,Woman,Criminal Harassment,NO,Sexual Orientation
+2019,2019-06-03,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-06-03,D51,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2019,2019-06-04,D51,NO,NA,NA,2SLGBTQ+,NA,Causing a Disturbance,YES,Sexual Orientation
+2019,2019-06-07,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-06-08,D22,NO,Black,NA,NA,NA,Assault,NO,Racial
+2019,2019-06-11,D31,NO,NA,NA,2SLGBTQ+,NA,Assault,YES,Sexual Orientation
+2019,2019-06-15,D55,NO,NA,NA,2SLGBTQ+,NA,Mischief Interfere With Property,NO,Sexual Orientation
+2019,2019-06-17,D51,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-06-17,D32,NO,NA,NA,NA,NA,Assault,NO,Age
+2019,2019-06-19,D51,NO,NA,NA,NA,"Transgender, Transgender Woman (Identifies As Woman)",Assault,NO,Gender
+2019,2019-06-19,D22,NO,NA,NA,NA,NA,Assault,NO,Age
+2019,2019-06-20,D32,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2019,2019-06-23,D41,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2019,2019-06-24,D32,NO,NA,Jewish,NA,NA,Criminal Harassment,NO,Religious
+2019,2019-06-26,D51,NO,Black,NA,NA,NA,Assault,YES,Racial
+2019,2019-06-27,D55,NO,White,NA,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-06-30,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-07-02,NSA,NO,NA,NA,NA,NA,Assault,NO,Age
+2019,2019-07-04,D55,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,YES,Sexual Orientation
+2019,2019-07-08,D52,NO,White,NA,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-07-08,D31,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2019,2019-07-09,D51,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Age
+2019,2019-07-12,D14,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,YES,Sexual Orientation
+2019,2019-07-15,D43,NO,NA,Muslim,NA,NA,Mischief Interfere With Property,NO,Religious
+2019,2019-07-16,D51,NO,Middle Eastern,NA,NA,NA,Assault,YES,Racial
+2019,2019-07-18,D11,NO,NA,Catholic,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2019,2019-07-19,D23,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2019,2019-07-20,D31,NO,NA,Muslim,NA,NA,Assault,YES,Religious
+2019,2019-07-22,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-07-24,D53,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2019,2019-07-25,D51,NO,"Black, East/Southeast Asian",NA,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-07-26,NSA,NO,NA,Sikh,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2019,2019-07-28,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-07-28,D13,NO,NA,Jewish,NA,NA,Uttering Threats - Property,NO,Religious
+2019,2019-08-06,D42,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-08-11,D51,NO,White,NA,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-08-12,D52,NO,Other race not mentioned,NA,NA,NA,Assault,YES,Racial
+2019,2019-08-15,D55,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2019,2019-08-16,D51,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-08-16,NSA,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,YES,Sexual Orientation
+2019,2019-08-18,D55,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2019,2019-08-20,D55,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,YES,Sexual Orientation
+2019,2019-08-21,D41,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-08-22,D41,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-08-22,D43,NO,NA,Muslim,NA,NA,Uttering Threats - Property,NO,Religious
+2019,2019-08-23,D52,NO,Black,NA,Gay,NA,Assault,NO,Racial
+2019,2019-08-23,NSA,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-08-25,D52,NO,NA,Sikh,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-08-26,D52,NO,NA,Muslim,NA,NA,Wilful Promotion of Hatred,NO,Religious
+2019,2019-08-30,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-08-31,D22,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-09-01,D52,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2019,2019-09-02,NSA,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2019,2019-09-03,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-09-03,D32,NO,NA,NA,NA,NA,Assault With a Weapon,NO,Age
+2019,2019-09-05,D13,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2019,2019-09-05,D43,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-09-07,D55,NO,Black,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2019,2019-09-10,D32,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2019,2019-09-10,D32,NO,NA,Muslim,NA,NA,Advocating Genocide,NO,Religious
+2019,2019-09-11,D55,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2019,2019-09-11,NSA,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2019,2019-09-17,D23,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2019,2019-09-21,D13,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2019,2019-09-25,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-09-25,D11,NO,NA,NA,NA,Transgender Man (Identifies As Man),Firearms Related Offence,NO,Gender
+2019,2019-09-25,D53,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2019,2019-09-30,D14,NO,East/Southeast Asian,NA,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-10-06,D14,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2019,2019-10-07,D43,NO,NA,Jewish,Gay,NA,Mischief Under $5000,NO,Religious
+2019,2019-10-14,D41,NO,NA,NA,2SLGBTQ+,Transgender,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2019,2019-10-16,D14,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2019,2019-10-22,D41,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-11-06,D51,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-11-07,D52,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2019,2019-11-11,D51,NO,East/Southeast Asian,NA,NA,NA,Mischief Under $5000,YES,Racial
+2019,2019-11-13,D52,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2019,2019-11-13,D51,NO,Black,NA,"Lesbian, 2SLGBTQ+",NA,Assault,NO,Racial
+2019,2019-11-17,D53,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-11-20,D31,NO,NA,Jewish,NA,NA,Public Incitement of Hatred ,NO,Religious
+2019,2019-11-22,D51,NO,NA,NA,NA,NA,Assault,NO,Age
+2019,2019-11-24,D52,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Age
+2019,2019-12-03,D41,NO,NA,NA,NA,Woman,Mischief Under $5000,YES,Gender
+2019,2019-12-06,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2019,2019-12-11,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2019,2019-12-30,D12,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-01-01,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-01-05,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-01-08,D14,NO,NA,NA,NA,Woman,Assault With a Weapon,YES,Gender
+2020,2020-01-09,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-01-09,D51,NO,NA,NA,NA,NA,Assault,NO,Age
+2020,2020-01-10,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-01-14,D51,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2020,2020-01-17,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-01-18,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-01-19,D13,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2020,2020-01-20,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-01-20,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-01-20,D33,NO,Black,NA,NA,NA,Assault,NO,Racial
+2020,2020-01-27,D32,NO,NA,Jewish,NA,NA,Public Incitement of Hatred ,NO,Religious
+2020,2020-01-30,D22,NO,White,NA,NA,NA,Mischief Interfere With Property,NO,Racial
+2020,2020-02-02,D51,NO,NA,Sikh,NA,NA,Assault,NO,Religious
+2020,2020-02-07,D51,NO,NA,NA,NA,NA,Robbery,YES,Age
+2020,2020-02-07,D11,NO,NA,Christian Orthodox,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2020,2020-02-11,D51,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2020,2020-02-11,NSA,NO,NA,NA,NA,NA,Mischief Interfere With Property,NO,Age
+2020,2020-02-18,D14,NO,NA,Muslim,NA,NA,Criminal Harassment,NO,Religious
+2020,2020-02-21,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-02-24,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-02-28,D22,NO,NA,NA,2SLGBTQ+,NA,Uttering Threats - Bodily Harm,YES,Sexual Orientation
+2020,2020-03-02,D31,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-03-08,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-03-09,D53,NO,NA,NA,2SLGBTQ+,NA,Criminal Harassment,NO,Sexual Orientation
+2020,2020-03-09,NSA,NO,NA,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Religious
+2020,2020-03-17,D51,NO,East/Southeast Asian,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2020,2020-03-26,D14,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2020,2020-03-30,D32,NO,NA,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Religious
+2020,2020-04-02,D41,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2020,2020-04-03,D13,NO,NA,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Religious
+2020,2020-04-04,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-04-04,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-04-05,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-04-08,D52,NO,"Black, East/Southeast Asian",NA,NA,NA,Assault With a Weapon,NO,Racial
+2020,2020-04-08,D11,NO,Black,NA,NA,NA,Assault,YES,Racial
+2020,2020-04-19,D13,NO,NA,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Religious
+2020,2020-04-21,D55,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2020,2020-04-22,D51,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Criminal Harassment,NO,Gender
+2020,2020-04-23,D51,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2020,2020-04-25,D55,NO,NA,NA,NA,NA,Assault,NO,Age
+2020,2020-04-25,D55,NO,NA,NA,NA,Transgender Man (Identifies As Man),Criminal Harassment,NO,Gender
+2020,2020-05-01,D13,NO,NA,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Religious
+2020,2020-05-05,D32,NO,NA,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Religious
+2020,2020-05-07,D22,NO,NA,NA,NA,NA,Assault,YES,Age
+2020,2020-05-10,D31,NO,Black,NA,NA,NA,Harassing Communications,NO,Racial
+2020,2020-05-15,D55,NO,Black,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Racial
+2020,2020-05-16,D52,NO,NA,NA,Gay,NA,Criminal Harassment,YES,Sexual Orientation
+2020,2020-05-16,D55,NO,NA,Muslim,NA,NA,Uttering Threats - Property,NO,Religious
+2020,2020-05-18,D32,NO,Black,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Racial
+2020,2020-05-21,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,YES,Racial
+2020,2020-05-22,D51,NO,NA,NA,Gay,NA,Mischief Under $5000,YES,Sexual Orientation
+2020,2020-05-23,D43,NO,Black,NA,NA,NA,Criminal Harassment,YES,Racial
+2020,2020-05-25,D32,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-05-25,D52,NO,NA,NA,NA,NA,Assault,NO,Age
+2020,2020-05-26,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-05-26,D52,NO,NA,NA,NA,NA,Mischief Under $5000,YES,Age
+2020,2020-05-26,D52,NO,NA,Muslim,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2020,2020-05-29,D32,NO,Black,NA,NA,NA,Mischief Under $5000,YES,Racial
+2020,2020-05-30,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-05-30,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-05-30,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-06-01,D14,NO,NA,NA,Lesbian,NA,Criminal Harassment,YES,Sexual Orientation
+2020,2020-06-01,D41,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-06-02,D23,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-06-02,D32,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-06-03,D11,NO,NA,NA,Gay,NA,Criminal Harassment,NO,Sexual Orientation
+2020,2020-06-05,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-06-06,D14,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2020,2020-06-06,D41,NO,Black,NA,NA,NA,Assault,YES,Racial
+2020,2020-06-09,D55,NO,Black,NA,NA,NA,Mischief Interfere With Property,YES,Racial
+2020,2020-06-11,D31,NO,Black,NA,NA,NA,Mischief Interfere With Property,NO,Racial
+2020,2020-06-13,D52,NO,NA,Muslim,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2020,2020-06-16,D51,NO,NA,Jewish,NA,NA,Assault,NO,Religious
+2020,2020-06-16,D51,NO,NA,NA,NA,NA,Assault,YES,Age
+2020,2020-06-18,D51,NO,Black,NA,NA,NA,Assault,YES,Racial
+2020,2020-06-19,D51,NO,NA,NA,NA,NA,Assault With a Weapon,YES,Age
+2020,2020-06-20,D22,NO,Black,NA,NA,NA,Mischief Interfere With Property,NO,Racial
+2020,2020-06-21,D11,NO,Black,NA,NA,NA,Wilful Promotion of Hatred,NO,Racial
+2020,2020-06-26,D51,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-06-26,D32,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2020,2020-06-26,D55,NO,Black,NA,NA,NA,Criminal Harassment,YES,Racial
+2020,2020-06-28,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-06-28,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-06-28,D55,NO,White,NA,NA,NA,Assault,YES,Racial
+2020,2020-06-28,D55,NO,NA,Other Christian Religion,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-06-30,D51,NO,NA,NA,NA,NA,Assault,YES,Age
+2020,2020-07-02,D52,NO,White,NA,NA,NA,Assault With a Weapon,YES,Racial
+2020,2020-07-03,D52,NO,NA,NA,NA,NA,Assault,YES,Age
+2020,2020-07-06,D51,NO,NA,NA,Gay,NA,Criminal Harassment,NO,Sexual Orientation
+2020,2020-07-06,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2020,2020-07-10,D52,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-07-16,D42,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-07-17,D14,NO,Black,NA,NA,NA,Assault,YES,Racial
+2020,2020-07-17,D42,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-07-18,D42,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2020,2020-07-19,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-07-20,D55,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2020,2020-07-22,D41,NO,NA,NA,NA,NA,Assault,YES,Age
+2020,2020-07-22,D22,NO,NA,Jewish,NA,NA,Wilful Promotion of Hatred,NO,Religious
+2020,2020-07-23,D31,NO,Black,NA,NA,NA,Harassing Communications,NO,Racial
+2020,2020-07-23,D11,NO,Black,NA,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Racial
+2020,2020-07-27,D53,NO,White,NA,NA,NA,Assault With a Weapon,NO,Racial
+2020,2020-07-30,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-07-30,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-07-31,D51,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Criminal Harassment,NO,Gender
+2020,2020-07-31,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Property,NO,Religious
+2020,2020-08-01,D43,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-08-06,D31,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2020,2020-08-07,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-08-11,D32,NO,NA,Jewish,NA,NA,Mischief Over $5000,NO,Religious
+2020,2020-08-11,D52,NO,"Black, South Asian",NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2020,2020-08-12,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-08-12,D31,NO,South Asian,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2020,2020-08-13,D55,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2020,2020-08-13,D31,NO,Black,NA,NA,NA,Mischief To Data,NO,Racial
+2020,2020-08-15,D51,NO,NA,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Religious
+2020,2020-08-16,D22,NO,NA,NA,NA,NA,Assault,YES,Age
+2020,2020-08-18,D51,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-08-19,D31,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2020,2020-08-20,D51,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2020,2020-08-23,D52,NO,NA,NA,NA,NA,Assault,YES,Age
+2020,2020-08-24,D23,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-08-24,D22,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-08-24,D12,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2020,2020-08-25,D22,NO,NA,Sikh,NA,NA,Assault,NO,Religious
+2020,2020-08-27,D55,NO,Black,NA,NA,NA,Assault With a Weapon,YES,Racial
+2020,2020-08-30,D14,NO,NA,Catholic,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-08-31,D22,NO,NA,NA,NA,NA,Assault,NO,Age
+2020,2020-08-31,NSA,NO,Black,NA,NA,NA,Assault,YES,Racial
+2020,2020-09-03,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-09-03,D22,NO,NA,NA,NA,NA,Assault,NO,Age
+2020,2020-09-05,D22,NO,NA,NA,NA,NA,Assault,NO,Age
+2020,2020-09-08,D32,NO,NA,Jewish,NA,NA,Wilful Promotion of Hatred,NO,Religious
+2020,2020-09-08,D22,NO,NA,NA,Lesbian,NA,Criminal Harassment,NO,Sexual Orientation
+2020,2020-09-08,D13,NO,NA,NA,Lesbian,NA,Criminal Harassment,YES,Sexual Orientation
+2020,2020-09-09,D51,NO,White,NA,NA,NA,Assault,YES,Racial
+2020,2020-09-09,D42,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2020,2020-09-09,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-09-10,D22,NO,South Asian,NA,NA,NA,Assault,NO,Racial
+2020,2020-09-11,D22,NO,NA,Jewish,NA,NA,Assault,YES,Religious
+2020,2020-09-11,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-09-13,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-09-14,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-09-17,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-09-17,D51,NO,South Asian,NA,NA,NA,Assault,NO,Racial
+2020,2020-09-20,D51,NO,NA,NA,NA,NA,Assault,NO,Age
+2020,2020-09-23,D13,NO,NA,Catholic,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2020,2020-09-25,D11,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault,NO,Gender
+2020,2020-09-29,D43,NO,NA,NA,NA,NA,Assault With a Weapon,YES,Age
+2020,2020-09-29,D43,NO,Black,NA,NA,NA,Mischief Interfere With Property,NO,Racial
+2020,2020-09-30,D32,NO,NA,NA,NA,NA,Assault,NO,Age
+2020,2020-09-30,D55,NO,NA,NA,Gay,NA,Criminal Harassment,NO,Sexual Orientation
+2020,2020-10-02,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-10-03,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-10-05,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-10-09,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-10-11,D32,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2020,2020-10-12,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-10-13,D53,NO,NA,NA,NA,NA,Assault With a Weapon,NO,Age
+2020,2020-10-14,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-10-15,D53,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2020,2020-10-15,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-10-15,D11,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-10-15,D51,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2020,2020-10-17,D51,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-10-17,D42,NO,NA,NA,NA,NA,Criminal Harassment,YES,Age
+2020,2020-10-21,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-10-25,D32,NO,NA,NA,NA,NA,Wilful Promotion of Hatred,NO,Age
+2020,2020-10-25,D55,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-10-25,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-10-26,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-10-26,D13,NO,NA,NA,Gay,NA,Mischief Under $5000,YES,Sexual Orientation
+2020,2020-10-27,D14,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2020,2020-10-28,D32,NO,NA,Jewish,NA,NA,Assault,NO,Religious
+2020,2020-10-29,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-10-31,D43,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-11-02,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-11-03,D55,NO,NA,Jewish,NA,NA,Criminal Harassment,NO,Religious
+2020,2020-11-03,D55,NO,Black,NA,NA,NA,Harassing Communications,NO,Racial
+2020,2020-11-05,D53,NO,Black,NA,NA,NA,Assault,NO,Racial
+2020,2020-11-06,D51,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-11-07,D42,NO,NA,NA,NA,NA,Assault,NO,Age
+2020,2020-11-10,D55,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-11-11,D55,NO,NA,NA,2SLGBTQ+,NA,Criminal Harassment,NO,Sexual Orientation
+2020,2020-11-11,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-11-12,D52,NO,White,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2020,2020-11-14,NSA,NO,NA,Catholic,NA,NA,Assault,NO,Religious
+2020,2020-11-16,D11,NO,Black,NA,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Racial
+2020,2020-11-23,D55,NO,NA,NA,NA,NA,Assault,YES,Age
+2020,2020-11-25,D41,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-11-25,D51,NO,NA,Jewish,NA,NA,Assault Peace Officer,YES,Religious
+2020,2020-11-27,D43,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2020,2020-11-28,D22,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-12-01,D14,NO,NA,NA,NA,NA,Assault With a Weapon,YES,Age
+2020,2020-12-04,D14,NO,NA,Catholic,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",YES,Religious
+2020,2020-12-07,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-12-08,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-12-11,D51,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2020,2020-12-13,D14,NO,NA,Catholic,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",YES,Religious
+2020,2020-12-17,D31,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2020,2020-12-18,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2020,2020-12-19,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-12-21,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-12-22,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2020,2020-12-22,D51,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2020,2020-12-23,D14,NO,NA,Catholic,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",YES,Religious
+2020,2020-12-23,D41,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2021,2021-01-01,D31,NO,White,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2021,2021-01-01,D43,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Criminal Harassment,NO,Gender
+2021,2021-01-02,D53,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-01-04,D32,NO,NA,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Religious
+2021,2021-01-12,D13,NO,White,NA,NA,NA,Assault,NO,Racial
+2021,2021-01-13,D42,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-01-17,D51,NO,Black,NA,NA,NA,Assault,NO,Racial
+2021,2021-01-22,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-01-24,D52,NO,NA,Catholic,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2021,2021-01-26,D51,NO,Other race not mentioned,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-01-27,D51,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Age
+2021,2021-01-28,D41,NO,NA,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Religious
+2021,2021-01-28,D32,NO,Black,NA,NA,NA,Other Criminal Code Offence Not Listed,NO,Racial
+2021,2021-01-28,D43,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-02-02,D52,NO,NA,Jewish,NA,NA,Assault,NO,Religious
+2021,2021-02-06,D55,NO,Black,NA,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Racial
+2021,2021-02-10,D51,NO,Black,NA,NA,NA,Assault,NO,Racial
+2021,2021-02-15,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-02-16,D22,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2021,2021-02-16,D43,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2021,2021-02-16,D43,NO,East/Southeast Asian,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2021,2021-02-20,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-02-22,D32,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,YES,Sexual Orientation
+2021,2021-02-23,D51,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-02-24,D52,NO,East/Southeast Asian,NA,NA,NA,Assault With a Weapon,NO,Racial
+2021,2021-02-25,D32,NO,East/Southeast Asian,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2021,2021-02-26,D12,NO,NA,NA,NA,NA,Assault,YES,Age
+2021,2021-02-27,D51,NO,NA,Muslim,NA,NA,Assault With a Weapon,YES,Religious
+2021,2021-02-28,D42,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-03-01,D53,NO,Black,NA,NA,Transgender Woman (Identifies As Woman),Uttering Threats - Bodily Harm,YES,Racial
+2021,2021-03-01,D23,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-03-02,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-03-02,D23,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2021,2021-03-07,D55,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-03-08,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-03-10,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-03-10,D53,NO,Black,NA,NA,NA,Mischief Interfere With Property,YES,Racial
+2021,2021-03-11,D42,NO,NA,Muslim,NA,NA,Assault,YES,Religious
+2021,2021-03-12,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-03-13,D14,NO,NA,NA,NA,NA,Harassing Communications,NO,Age
+2021,2021-03-14,D51,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-03-14,D32,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2021,2021-03-15,D32,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2021,2021-03-18,D55,NO,Black,NA,2SLGBTQ+,NA,Wilful Promotion of Hatred,NO,Racial
+2021,2021-03-19,D12,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2021,2021-03-20,D11,NO,East/Southeast Asian,NA,NA,NA,Assault,YES,Racial
+2021,2021-03-20,D14,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-03-22,D14,NO,NA,Jewish,NA,Woman,Uttering Threats - Bodily Harm,NO,Religious
+2021,2021-03-22,D42,NO,East/Southeast Asian,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-03-23,D51,NO,East/Southeast Asian,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-03-23,D43,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2021,2021-03-25,D42,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2021,2021-03-25,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-03-25,D51,NO,East/Southeast Asian,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-03-25,D14,NO,East/Southeast Asian,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2021,2021-03-25,D13,NO,NA,NA,NA,NA,Criminal Harassment,NO,Age
+2021,2021-03-25,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-03-26,D42,NO,"Black, East/Southeast Asian",NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-03-26,D31,NO,NA,Muslim,NA,NA,Sexual Assault,NO,Religious
+2021,2021-03-27,D22,NO,"East/Southeast Asian, South Asian, Black",NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-03-29,D42,NO,NA,Muslim,NA,NA,Assault,YES,Religious
+2021,2021-03-30,D22,NO,East/Southeast Asian,NA,NA,NA,Assault,YES,Racial
+2021,2021-03-30,D33,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2021,2021-03-31,D52,NO,East/Southeast Asian,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2021,2021-03-31,D43,NO,Black,NA,NA,Transgender,Mischief Under $5000,YES,Racial
+2021,2021-03-31,D14,NO,East/Southeast Asian,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2021,2021-04-01,D55,NO,South Asian,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-04-01,D41,NO,NA,NA,NA,NA,Assault,YES,Age
+2021,2021-04-03,D51,NO,Black,Jewish,NA,Woman,Mischief Interfere With Property,NO,Racial
+2021,2021-04-05,D12,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2021,2021-04-06,D13,NO,NA,NA,NA,Woman,Mischief Under $5000,NO,Gender
+2021,2021-04-09,D32,NO,East/Southeast Asian,NA,NA,NA,Assault With a Weapon,NO,Racial
+2021,2021-04-09,D22,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2021,2021-04-09,D14,NO,NA,NA,NA,Woman,Assault,YES,Gender
+2021,2021-04-11,D11,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2021,2021-04-11,D55,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-04-11,D51,NO,East/Southeast Asian,NA,NA,NA,Assault,YES,Racial
+2021,2021-04-11,D52,NO,East/Southeast Asian,NA,NA,NA,Assault With a Weapon,YES,Racial
+2021,2021-04-15,D33,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault With a Weapon,NO,Gender
+2021,2021-04-19,D51,NO,East/Southeast Asian,NA,NA,NA,Assault,YES,Racial
+2021,2021-04-22,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-04-27,D11,NO,NA,NA,NA,Woman,Criminal Harassment,NO,Gender
+2021,2021-04-28,D22,NO,NA,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Religious
+2021,2021-04-29,D31,NO,"Black, East/Southeast Asian",NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2021,2021-04-30,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-04-30,D32,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2021,2021-05-01,D51,NO,Black,NA,NA,NA,Mischief Interfere With Property,NO,Racial
+2021,2021-05-02,D33,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2021,2021-05-05,D23,NO,NA,Jewish,NA,Woman,Mischief Under $5000,NO,Religious
+2021,2021-05-05,D51,NO,Black,NA,NA,NA,Assault,YES,Racial
+2021,2021-05-10,D53,NO,East/Southeast Asian,NA,NA,NA,Assault,YES,Racial
+2021,2021-05-10,D12,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-05-11,D55,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-05-11,D23,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2021,2021-05-11,D51,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-05-14,D32,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2021,2021-05-14,D22,NO,Black,Jewish,NA,NA,Mischief Under $5000,YES,Racial
+2021,2021-05-15,D32,NO,NA,Jewish,NA,NA,Assault With a Weapon,NO,Religious
+2021,2021-05-15,D52,NO,NA,Jewish,NA,NA,Assault With a Weapon,NO,Religious
+2021,2021-05-15,D31,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-05-15,D52,NO,NA,Jewish,NA,NA,Assault,YES,Religious
+2021,2021-05-15,D52,NO,NA,Jewish,NA,NA,Assault,NO,Religious
+2021,2021-05-17,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-05-17,D11,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Uttering Threats - Bodily Harm,NO,Gender
+2021,2021-05-18,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-05-19,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-05-23,D51,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-05-24,D22,NO,Black,NA,NA,NA,Assault,NO,Racial
+2021,2021-05-24,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-05-28,D32,NO,"Black, East/Southeast Asian",NA,NA,NA,Harassing Communications,NO,Racial
+2021,2021-05-31,D51,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-05-31,D43,NO,NA,NA,NA,Woman,Mischief Under $5000,NO,Gender
+2021,2021-06-01,D53,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2021,2021-06-01,NSA,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault Causing Bodily Harm,YES,Gender
+2021,2021-06-03,D52,NO,South Asian,NA,NA,NA,Assault With a Weapon,NO,Racial
+2021,2021-06-03,D41,NO,Black,NA,NA,NA,Assault Causing Bodily Harm,YES,Racial
+2021,2021-06-04,D42,NO,NA,NA,2SLGBTQ+,NA,Theft,NO,Sexual Orientation
+2021,2021-06-05,D55,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2021,2021-06-05,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-06-05,D13,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-06-06,D55,NO,Black,NA,Gay,NA,Mischief Under $5000,NO,Racial
+2021,2021-06-07,D22,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2021,2021-06-07,D51,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2021,2021-06-08,D11,NO,NA,NA,Gay,NA,Assault With a Weapon,NO,Sexual Orientation
+2021,2021-06-08,D31,NO,East/Southeast Asian,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-06-09,D53,NO,NA,NA,NA,NA,Criminal Harassment,NO,Age
+2021,2021-06-09,D33,NO,NA,NA,NA,NA,Assault With a Weapon,NO,Age
+2021,2021-06-10,D32,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2021,2021-06-12,D11,NO,NA,NA,Gay,NA,Criminal Harassment,YES,Sexual Orientation
+2021,2021-06-15,D13,NO,Black,NA,NA,NA,Criminal Harassment,YES,Racial
+2021,2021-06-18,D14,NO,NA,NA,Gay,NA,Mischief Under $5000,YES,Sexual Orientation
+2021,2021-06-18,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-06-18,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-06-19,D53,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-06-20,D52,NO,NA,Catholic,NA,NA,Mischief Interfere With Property,NO,Religious
+2021,2021-06-21,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-06-22,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,YES,Religious
+2021,2021-06-27,D33,NO,NA,NA,NA,NA,Criminal Harassment,YES,Age
+2021,2021-06-27,D31,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2021,2021-06-28,D51,NO,NA,NA,NA,Woman,Uttering Threats - Bodily Harm,YES,Gender
+2021,2021-06-28,D13,NO,Black,NA,NA,NA,Mischief Interfere With Property,NO,Racial
+2021,2021-06-30,D13,NO,NA,Catholic,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-06-30,D51,NO,NA,NA,NA,NA,Assault,YES,Age
+2021,2021-07-01,D12,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-07-02,D51,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-07-03,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-07-05,D51,NO,Black,NA,NA,NA,Assault,NO,Racial
+2021,2021-07-06,D14,NO,NA,Jewish,NA,NA,Assault With a Weapon,YES,Religious
+2021,2021-07-10,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-07-10,D53,NO,NA,Jewish,NA,NA,Assault,YES,Religious
+2021,2021-07-11,D55,NO,Black,NA,NA,NA,Assault,YES,Racial
+2021,2021-07-12,D51,NO,NA,NA,NA,NA,Assault,NO,Age
+2021,2021-07-13,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-07-13,D22,NO,NA,NA,NA,Woman,Uttering Threats - Bodily Harm,YES,Gender
+2021,2021-07-17,D51,NO,NA,NA,Gay,NA,Assault Causing Bodily Harm,NO,Sexual Orientation
+2021,2021-07-18,D14,NO,East/Southeast Asian,NA,NA,NA,Other Criminal Code Offence Not Listed,NO,Racial
+2021,2021-07-19,D11,NO,NA,NA,NA,NA,Assault,YES,Age
+2021,2021-07-22,D53,NO,White,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-07-22,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-07-26,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-07-26,D32,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2021,2021-07-28,D53,NO,NA,Jewish,NA,NA,Assault,NO,Religious
+2021,2021-07-28,D11,NO,NA,Jewish,NA,NA,Assault With a Weapon,YES,Religious
+2021,2021-07-29,D51,NO,Black,NA,NA,Transgender Woman (Identifies As Woman),Assault,NO,Racial
+2021,2021-08-04,D31,NO,NA,Jewish,NA,NA,Assault,NO,Religious
+2021,2021-08-09,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,YES,Racial
+2021,2021-08-09,D13,NO,East/Southeast Asian,NA,NA,NA,Harassing Communications,NO,Racial
+2021,2021-08-11,D43,NO,NA,NA,NA,NA,Assault,YES,Age
+2021,2021-08-12,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-08-15,D11,NO,Black,NA,NA,NA,Assault,YES,Racial
+2021,2021-08-17,D14,NO,NA,Catholic,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",YES,Religious
+2021,2021-08-18,D13,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2021,2021-08-20,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-08-26,D14,NO,NA,NA,NA,NA,Assault,NO,Age
+2021,2021-08-30,D55,NO,NA,NA,2SLGBTQ+,NA,Harassing Communications,NO,Sexual Orientation
+2021,2021-08-31,D13,NO,NA,Jewish,NA,NA,Harassing Communications,YES,Religious
+2021,2021-08-31,D14,NO,NA,Jewish,NA,NA,Harassing Communications,YES,Religious
+2021,2021-09-01,D51,NO,White,NA,NA,NA,Assault,YES,Racial
+2021,2021-09-03,D51,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2021,2021-09-03,D13,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2021,2021-09-10,D11,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Age
+2021,2021-09-11,D43,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2021,2021-09-11,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-09-11,D32,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2021,2021-09-11,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-09-11,D32,NO,NA,Jewish,NA,NA,Assault,YES,Religious
+2021,2021-09-13,D51,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2021,2021-09-13,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-09-14,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-09-14,D13,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-09-15,D55,NO,NA,Muslim,NA,NA,Assault With a Weapon,YES,Religious
+2021,2021-09-16,D52,NO,NA,NA,NA,NA,Assault,YES,Age
+2021,2021-09-17,D51,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2021,2021-09-18,D14,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2021,2021-09-18,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-09-20,D51,NO,NA,NA,2SLGBTQ+,NA,Criminal Harassment,NO,Sexual Orientation
+2021,2021-09-21,D55,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-09-21,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-09-23,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-09-24,D51,NO,NA,NA,NA,Transgender,Harassing Communications,NO,Gender
+2021,2021-09-26,D53,NO,South Asian,NA,NA,NA,Harassing Communications,NO,Racial
+2021,2021-09-26,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-09-27,D14,NO,NA,Muslim,NA,Woman,Uttering Threats - Bodily Harm,NO,Religious
+2021,2021-09-28,D52,NO,Black,NA,NA,NA,Assault Causing Bodily Harm,YES,Racial
+2021,2021-09-29,D55,NO,NA,NA,Lesbian,NA,Criminal Harassment,NO,Sexual Orientation
+2021,2021-09-30,D51,NO,Black,NA,NA,NA,Assault,NO,Racial
+2021,2021-10-01,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-10-02,D53,NO,NA,NA,NA,NA,Assault Causing Bodily Harm,YES,Age
+2021,2021-10-05,D14,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2021,2021-10-05,D22,NO,Black,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2021,2021-10-06,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-10-06,D55,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-10-07,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-10-08,D51,NO,NA,NA,Gay,NA,Assault,YES,Sexual Orientation
+2021,2021-10-08,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-10-10,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-10-11,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-10-12,D41,NO,NA,Muslim,NA,NA,Assault,YES,Religious
+2021,2021-10-12,D14,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2021,2021-10-15,D14,NO,NA,NA,Gay,NA,Assault,YES,Sexual Orientation
+2021,2021-10-15,D42,NO,NA,NA,NA,NA,Assault,NO,Age
+2021,2021-10-17,D52,NO,Black,NA,NA,NA,Assault,NO,Racial
+2021,2021-10-18,D53,NO,Black,NA,NA,NA,Assault,YES,Racial
+2021,2021-10-20,D42,NO,Black,NA,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Racial
+2021,2021-10-21,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-10-22,D31,NO,White,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-10-25,D55,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault,YES,Gender
+2021,2021-10-28,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-10-28,D32,NO,NA,NA,NA,NA,Assault,NO,Age
+2021,2021-10-29,D51,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2021,2021-10-31,D51,NO,NA,NA,Lesbian,NA,Mischief Under $5000,NO,Sexual Orientation
+2021,2021-10-31,D42,NO,NA,NA,2SLGBTQ+,NA,Assault,NO,Sexual Orientation
+2021,2021-11-03,D51,NO,NA,NA,NA,NA,Assault Causing Bodily Harm,YES,Age
+2021,2021-11-03,D41,NO,South Asian,NA,NA,NA,Harassing Communications,NO,Racial
+2021,2021-11-06,D23,NO,Black,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2021,2021-11-07,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-11-08,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-11-09,D31,NO,NA,Muslim,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",YES,Religious
+2021,2021-11-10,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-11-11,D12,NO,Black,NA,NA,NA,Criminal Harassment,YES,Racial
+2021,2021-11-14,D32,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2021,2021-11-14,D22,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-11-15,D51,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2021,2021-11-15,D32,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2021,2021-11-20,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-11-23,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-11-24,D52,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2021,2021-11-24,D53,NO,South Asian,NA,NA,NA,Assault,NO,Racial
+2021,2021-11-25,D33,NO,Black,NA,NA,NA,Criminal Harassment,NO,Racial
+2021,2021-11-30,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-12-03,D55,NO,NA,NA,NA,Transgender Man (Identifies As Man),Assault,NO,Gender
+2021,2021-12-03,D33,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-12-06,D32,NO,Black,Jewish,NA,Woman,Uttering Threats - Bodily Harm,YES,Racial
+2021,2021-12-07,D33,NO,NA,Sikh,NA,NA,Mischief Interfere With Property,NO,Religious
+2021,2021-12-07,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-12-08,D41,NO,Black,NA,NA,NA,Assault,NO,Racial
+2021,2021-12-12,D42,NO,Black,NA,2SLGBTQ+,NA,Mischief Interfere With Property,NO,Racial
+2021,2021-12-15,D52,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2021,2021-12-16,D33,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2021,2021-12-24,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2021,2021-12-30,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-01-01,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-01-01,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-01-02,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-01-03,D55,NO,NA,NA,NA,Transgender,Criminal Harassment,NO,Gender
+2022,2022-01-03,D51,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2022,2022-01-06,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-01-08,D51,NO,Black,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2022,2022-01-09,D14,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-01-11,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-01-18,D55,NO,NA,Muslim,NA,NA,Assault,YES,Religious
+2022,2022-01-21,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-01-23,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,YES,Racial
+2022,2022-01-25,D11,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-01-27,D51,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Age
+2022,2022-01-27,D53,NO,NA,NA,NA,NA,Assault,YES,Age
+2022,2022-01-28,D53,NO,Black,NA,Gay,NA,Mischief Over $5000,NO,Racial
+2022,2022-01-31,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2022,2022-02-03,D42,NO,Black,NA,NA,NA,Mischief To Data,NO,Racial
+2022,2022-02-03,D55,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-02-05,D52,NO,NA,Jewish,NA,NA,Public Incitement of Hatred ,NO,Religious
+2022,2022-02-06,D41,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-02-07,D22,NO,NA,NA,NA,NA,Mischief Over $5000,YES,Age
+2022,2022-02-07,D52,NO,East/Southeast Asian,NA,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Racial
+2022,2022-02-08,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-02-09,D55,NO,NA,NA,2SLGBTQ+,NA,Assault With a Weapon,YES,Sexual Orientation
+2022,2022-02-09,D33,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-02-10,D22,NO,Black,NA,NA,NA,Harassing Communications,NO,Racial
+2022,2022-02-12,D53,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-02-15,D11,NO,Black,NA,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Racial
+2022,2022-02-21,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-02-23,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-02-23,D31,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-02-23,D55,NO,NA,Jewish,NA,NA,Assault,NO,Religious
+2022,2022-02-24,D32,NO,NA,NA,NA,NA,Uttering Threats - Property,YES,Age
+2022,2022-02-24,D33,NO,NA,NA,NA,Transgender Man (Identifies As Man),Uttering Threats - Bodily Harm,NO,Gender
+2022,2022-02-25,D22,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2022,2022-02-26,D22,NO,NA,NA,NA,NA,Mischief Over $5000,YES,Age
+2022,2022-02-28,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-02-28,D22,NO,NA,NA,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Age
+2022,2022-02-28,D23,NO,NA,Muslim,NA,NA,Harassing Communications,NO,Religious
+2022,2022-03-01,D51,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-03-01,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-03-01,D51,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2022,2022-03-01,D22,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2022,2022-03-01,D22,NO,Black,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2022,2022-03-02,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-03-03,D41,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-03-04,D22,NO,NA,NA,NA,NA,Mischief Under $5000,YES,Age
+2022,2022-03-04,D14,NO,South Asian,NA,NA,NA,Assault,NO,Racial
+2022,2022-03-04,D42,NO,Other race not mentioned,NA,NA,NA,Harassing Communications,NO,Racial
+2022,2022-03-05,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-03-05,D22,NO,NA,NA,NA,NA,Mischief Over $5000,NO,Age
+2022,2022-03-06,D51,NO,NA,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Religious
+2022,2022-03-06,D53,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-03-06,D22,NO,NA,NA,NA,NA,Mischief Under $5000,YES,Age
+2022,2022-03-07,D42,NO,South Asian,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2022,2022-03-08,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-03-09,D13,NO,NA,NA,2SLGBTQ+,NA,Assault,YES,Sexual Orientation
+2022,2022-03-10,D41,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-03-11,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-03-13,D55,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2022,2022-03-14,D13,NO,Latino,NA,NA,NA,Assault,NO,Racial
+2022,2022-03-14,D32,NO,NA,NA,NA,NA,Mischief Over $5000,NO,Age
+2022,2022-03-15,D55,NO,East/Southeast Asian,Muslim,NA,NA,Assault,NO,Racial
+2022,2022-03-16,D53,NO,Other race not mentioned,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-03-16,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-03-16,D31,NO,Black,NA,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Racial
+2022,2022-03-18,D53,NO,Black,NA,NA,NA,Assault,NO,Racial
+2022,2022-03-18,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-03-31,D32,NO,NA,NA,NA,NA,Assault With a Weapon,YES,Age
+2022,2022-04-04,D14,NO,NA,NA,NA,NA,Assault,NO,Age
+2022,2022-04-05,D52,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Mischief Under $5000,NO,Gender
+2022,2022-04-06,D14,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2022,2022-04-07,D42,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault,YES,Gender
+2022,2022-04-07,D53,NO,NA,NA,NA,NA,Assault,NO,Age
+2022,2022-04-08,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-04-10,D31,NO,NA,Muslim,NA,NA,Harassing Communications,NO,Religious
+2022,2022-04-12,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-04-13,D51,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2022,2022-04-14,D31,NO,Black,NA,NA,NA,Mischief Under $5000,YES,Racial
+2022,2022-04-16,D43,NO,NA,NA,NA,NA,Assault,YES,Age
+2022,2022-04-18,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-04-20,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-04-21,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-04-21,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-04-29,D43,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-04-29,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-04-29,D51,NO,Middle Eastern,NA,Gay,NA,Assault,NO,Racial
+2022,2022-04-30,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-05-01,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-05-01,D23,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-05-03,D51,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-05-08,D31,NO,NA,Muslim,NA,NA,Disturbing Religious Worship Or Certain Meetings,YES,Religious
+2022,2022-05-11,D42,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-05-12,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-05-12,D55,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-05-12,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-05-13,NSA,NO,NA,NA,NA,Transgender,Assault,NO,Gender
+2022,2022-05-13,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-05-16,D53,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2022,2022-05-17,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-05-18,D33,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2022,2022-05-18,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-05-19,D52,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2022,2022-05-20,D42,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-05-21,D22,NO,NA,Muslim,NA,NA,Mischief Interfere With Property,NO,Religious
+2022,2022-05-21,D22,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2022,2022-05-25,D32,NO,Black,NA,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Racial
+2022,2022-05-25,D13,NO,NA,Jewish,NA,NA,Assault With a Weapon,YES,Religious
+2022,2022-05-27,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-05-30,D52,NO,Black,NA,NA,NA,Assault With a Weapon,YES,Racial
+2022,2022-05-31,D43,NO,NA,NA,Gay,NA,Criminal Harassment,NO,Sexual Orientation
+2022,2022-06-01,D41,NO,NA,NA,2SLGBTQ+,NA,Assault,NO,Sexual Orientation
+2022,2022-06-02,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,YES,Religious
+2022,2022-06-02,D41,NO,Black,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2022,2022-06-06,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,YES,Religious
+2022,2022-06-06,D52,NO,NA,NA,2SLGBTQ+,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2022,2022-06-07,D55,NO,NA,NA,2SLGBTQ+,NA,Mischief Interfere With Property,NO,Sexual Orientation
+2022,2022-06-08,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,YES,Religious
+2022,2022-06-12,D51,NO,East/Southeast Asian,NA,NA,NA,Assault,YES,Racial
+2022,2022-06-12,D51,NO,NA,NA,Gay,NA,Assault,YES,Sexual Orientation
+2022,2022-06-15,D55,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2022,2022-06-17,D32,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-06-17,D33,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-06-17,D22,NO,NA,NA,NA,Woman,Murder,YES,Gender
+2022,2022-06-20,D43,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-06-20,D22,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2022,2022-06-22,D42,NO,NA,NA,NA,NA,Assault,YES,Age
+2022,2022-06-22,D51,NO,Black,NA,NA,NA,Assault,YES,Racial
+2022,2022-06-24,D55,NO,East/Southeast Asian,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-06-24,D51,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-06-24,D51,NO,NA,NA,Gay,NA,Assault With a Weapon,NO,Sexual Orientation
+2022,2022-06-26,D51,NO,NA,NA,NA,Woman,Assault,YES,Gender
+2022,2022-06-29,D52,NO,Black,NA,NA,NA,Assault,NO,Racial
+2022,2022-06-30,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,YES,Religious
+2022,2022-06-30,D43,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-06-30,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,YES,Religious
+2022,2022-07-01,D55,NO,NA,NA,Gay,NA,Harassing Communications,NO,Sexual Orientation
+2022,2022-07-01,D13,NO,"Indigenous, East/Southeast Asian",Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-07-02,D51,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-07-09,D32,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-07-10,D51,NO,NA,NA,Gay,NA,Assault With a Weapon,NO,Sexual Orientation
+2022,2022-07-10,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-07-10,D32,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-07-13,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,YES,Religious
+2022,2022-07-14,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-07-15,D41,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-07-19,D53,NO,NA,NA,NA,NA,Assault With a Weapon,NO,Age
+2022,2022-07-19,D41,NO,Black,NA,NA,NA,Assault,YES,Racial
+2022,2022-07-21,D14,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2022,2022-07-28,D32,NO,"Black, East/Southeast Asian",Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-07-30,D14,NO,NA,NA,NA,NA,Assault,NO,Age
+2022,2022-07-30,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-08-10,D31,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,YES,Sexual Orientation
+2022,2022-08-12,D41,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-08-12,D32,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-08-13,D55,NO,NA,NA,2SLGBTQ+,Transgender,Criminal Harassment,NO,Sexual Orientation
+2022,2022-08-15,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-08-16,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-08-17,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-08-19,D33,NO,NA,Christian Orthodox,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2022,2022-08-20,D55,NO,NA,NA,NA,NA,Mischief Interfere With Property,NO,Age
+2022,2022-08-27,D51,NO,NA,NA,2SLGBTQ+,NA,Assault,YES,Sexual Orientation
+2022,2022-08-27,D51,NO,South Asian,NA,NA,NA,Assault,NO,Racial
+2022,2022-08-28,D22,NO,Black,NA,NA,NA,Assault,NO,Racial
+2022,2022-08-29,D41,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-09-01,D51,NO,"Black, South Asian",NA,NA,NA,Assault,YES,Racial
+2022,2022-09-02,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-09-07,D41,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-09-07,D43,NO,South Asian,NA,NA,NA,Assault,YES,Racial
+2022,2022-09-07,D55,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2022,2022-09-08,D52,NO,Indigenous,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-09-10,D55,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2022,2022-09-13,D53,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2022,2022-09-15,D41,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2022,2022-09-16,NSA,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-09-17,D51,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault With a Weapon,NO,Gender
+2022,2022-09-20,D55,NO,NA,NA,2SLGBTQ+,NA,Mischief Interfere With Property,NO,Sexual Orientation
+2022,2022-09-20,D41,NO,NA,NA,Lesbian,NA,Assault,YES,Sexual Orientation
+2022,2022-09-22,D51,NO,East/Southeast Asian,NA,NA,NA,Assault,YES,Racial
+2022,2022-09-23,D32,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2022,2022-09-23,D53,NO,NA,NA,NA,NA,Assault With a Weapon,NO,Age
+2022,2022-09-24,D52,NO,NA,Muslim,NA,NA,Assault,YES,Religious
+2022,2022-09-26,D51,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault,NO,Gender
+2022,2022-09-30,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-09-30,D32,NO,NA,Jewish,2SLGBTQ+,NA,Harassing Communications,NO,Religious
+2022,2022-09-30,D14,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault,YES,Gender
+2022,2022-10-01,D32,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Uttering Threats - Bodily Harm,NO,Gender
+2022,2022-10-03,D22,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2022,2022-10-07,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-10-09,D55,NO,Black,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Racial
+2022,2022-10-12,D42,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Age
+2022,2022-10-12,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-10-13,D53,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2022,2022-10-17,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,YES,Religious
+2022,2022-10-18,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-10-19,D51,NO,"Black, Latino",NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2022,2022-10-20,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-10-22,D22,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2022,2022-10-22,D55,NO,NA,NA,NA,NA,Assault,NO,Age
+2022,2022-10-22,D55,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2022,2022-10-23,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-10-24,D51,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-10-24,D52,NO,Black,Muslim,NA,NA,Assault,NO,Racial
+2022,2022-10-26,D32,NO,NA,Jewish,NA,NA,Assault,YES,Religious
+2022,2022-10-30,D51,NO,NA,NA,NA,NA,Assault,NO,Age
+2022,2022-10-31,D51,NO,South Asian,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2022,2022-10-31,D51,NO,Black,NA,NA,NA,Assault,YES,Racial
+2022,2022-10-31,D51,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Criminal Harassment,YES,Gender
+2022,2022-11-01,D55,NO,"Black, East/Southeast Asian",Jewish,NA,NA,Mischief Under $5000,YES,Racial
+2022,2022-11-03,D13,NO,NA,Catholic,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2022,2022-11-03,D22,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-11-05,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-11-06,D12,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-11-07,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-11-07,D51,NO,NA,NA,Gay,NA,Criminal Harassment,NO,Sexual Orientation
+2022,2022-11-09,D52,NO,NA,NA,NA,Woman,Mischief Under $5000,NO,Gender
+2022,2022-11-11,D55,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2022,2022-11-12,D33,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2022,2022-11-13,D52,NO,Black,NA,NA,Woman,Criminal Harassment,YES,Racial
+2022,2022-11-13,D52,NO,Black,NA,NA,Woman,Uttering Threats - Bodily Harm,YES,Racial
+2022,2022-11-14,D55,NO,Black,NA,NA,NA,Assault With a Weapon,YES,Racial
+2022,2022-11-16,D52,NO,South Asian,NA,NA,NA,Assault,NO,Racial
+2022,2022-11-23,D14,NO,South Asian,NA,NA,NA,Assault,YES,Racial
+2022,2022-11-24,D14,NO,Black,NA,2SLGBTQ+,NA,Mischief Interfere With Property,NO,Racial
+2022,2022-11-27,D55,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2022,2022-11-28,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-12-01,D55,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2022,2022-12-04,D51,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2022,2022-12-05,D41,NO,NA,Jewish,NA,NA,Robbery,YES,Religious
+2022,2022-12-06,D33,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2022,2022-12-09,D52,NO,NA,Muslim,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2022,2022-12-09,D43,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-12-11,D52,NO,Black,NA,NA,NA,Assault With a Weapon,NO,Racial
+2022,2022-12-12,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-12-16,D14,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2022,2022-12-20,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-12-21,D11,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2022,2022-12-21,D51,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2022,2022-12-22,D51,NO,NA,"Jewish, Muslim",NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-12-23,D14,NO,NA,Jewish,NA,NA,Harassing Communications,YES,Religious
+2022,2022-12-23,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2022,2022-12-25,D32,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2022,2022-12-26,D52,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Uttering Threats - Bodily Harm,YES,Gender
+2022,2022-12-28,D33,NO,NA,NA,NA,NA,Assault,YES,Age
+2022,2022-12-30,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-01-01,D55,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-01-01,D32,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-01-02,D11,NO,NA,Hindu,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-01-02,D51,NO,Black,NA,NA,NA,Assault,NO,Racial
+2023,2023-01-03,D12,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-01-03,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-01-14,D12,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-01-15,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-01-17,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-01-18,D32,NO,NA,Anglican,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2023,2023-01-18,D51,NO,NA,Sikh,NA,NA,Assault,YES,Religious
+2023,2023-01-27,D53,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2023,2023-01-28,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-01-28,D51,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-01-29,D52,NO,"Black, South Asian",NA,NA,NA,Assault,YES,Racial
+2023,2023-01-30,D51,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2023,2023-02-03,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-02-03,D12,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-02-04,D22,NO,NA,NA,NA,NA,Theft,NO,Age
+2023,2023-02-07,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-02-08,D55,NO,Black,NA,NA,NA,Assault,YES,Racial
+2023,2023-02-08,D52,NO,NA,Jewish,NA,NA,Assault,NO,Religious
+2023,2023-02-10,D13,NO,Black,NA,NA,NA,Criminal Harassment,NO,Racial
+2023,2023-02-11,D32,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-02-12,D55,NO,Latino,NA,NA,NA,Assault With a Weapon,YES,Racial
+2023,2023-02-12,D32,NO,NA,"Jewish, Muslim",NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-02-13,D12,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-02-13,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-02-15,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-02-15,D41,NO,Black,Jewish,NA,Transgender,Mischief Under $5000,NO,Racial
+2023,2023-02-18,D51,NO,Black,NA,NA,NA,Assault With a Weapon,YES,Racial
+2023,2023-02-20,D55,NO,NA,Sikh,NA,NA,Mischief Under $5000,YES,Religious
+2023,2023-02-21,D43,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-02-23,D52,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2023,2023-02-25,D52,NO,East/Southeast Asian,NA,NA,NA,Mischief Under $5000,YES,Racial
+2023,2023-03-01,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-03-01,D43,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Age
+2023,2023-03-03,D22,NO,Black,NA,NA,NA,Assault,NO,Racial
+2023,2023-03-06,D53,NO,Black,NA,NA,NA,Assault,NO,Racial
+2023,2023-03-09,D32,NO,NA,Muslim,NA,NA,Assault With a Weapon,YES,Religious
+2023,2023-03-10,D52,NO,Black,NA,NA,NA,Assault,YES,Racial
+2023,2023-03-10,D22,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-03-10,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-03-12,D11,NO,NA,NA,Gay,NA,Assault Causing Bodily Harm,NO,Sexual Orientation
+2023,2023-03-13,D41,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-03-14,D53,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-03-14,D51,NO,NA,NA,NA,NA,Assault,YES,Age
+2023,2023-03-16,D55,NO,Black,NA,NA,Transgender Woman (Identifies As Woman),Harassing Communications,NO,Racial
+2023,2023-03-19,D12,NO,NA,NA,NA,NA,Assault With a Weapon,NO,Age
+2023,2023-03-20,D51,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Age
+2023,2023-03-21,D14,NO,Black,NA,NA,NA,Assault,NO,Racial
+2023,2023-03-22,D55,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2023,2023-03-22,D41,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-03-24,D32,NO,South Asian,NA,NA,NA,Assault,NO,Racial
+2023,2023-03-27,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-03-28,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-03-29,D12,NO,NA,Muslim,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2023,2023-03-29,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-03-30,D55,NO,NA,NA,2SLGBTQ+,NA,Harassing Communications,NO,Sexual Orientation
+2023,2023-03-31,D52,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-04-02,D51,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-04-03,D32,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-04-03,D33,NO,NA,NA,NA,Transgender,Mischief Under $5000,NO,Gender
+2023,2023-04-04,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-04-05,D53,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-04-05,D43,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2023,2023-04-05,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-04-05,D42,NO,NA,Muslim,NA,NA,Criminal Harassment,NO,Religious
+2023,2023-04-06,D43,NO,NA,Muslim,NA,NA,Dangerous Operation Motor Vehicle,YES,Religious
+2023,2023-04-06,D43,NO,NA,Muslim,NA,NA,Criminal Harassment,YES,Religious
+2023,2023-04-06,D41,NO,NA,Muslim,NA,NA,Assault With a Weapon,NO,Religious
+2023,2023-04-09,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2023,2023-04-10,D31,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-04-11,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-04-11,D23,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-04-12,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-04-13,D11,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-04-13,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-04-14,D41,NO,NA,NA,Gay,NA,Firearms Related Offence,NO,Sexual Orientation
+2023,2023-04-14,D33,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-04-14,D51,NO,Black,NA,NA,NA,Assault With a Weapon,YES,Racial
+2023,2023-04-14,D32,NO,NA,NA,NA,NA,Assault With a Weapon,YES,Age
+2023,2023-04-15,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-04-17,D32,NO,White,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-04-17,D33,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-04-18,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-04-18,D52,NO,Black,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Racial
+2023,2023-04-18,D11,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2023,2023-04-20,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-04-20,D43,NO,South Asian,NA,NA,NA,Assault,YES,Racial
+2023,2023-04-20,D52,NO,White,NA,NA,NA,Assault,NO,Racial
+2023,2023-04-21,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-04-22,D55,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Age
+2023,2023-04-24,D22,NO,Other race not mentioned,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2023,2023-04-25,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-04-26,D55,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2023,2023-04-27,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-05-01,D51,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2023,2023-05-03,D11,NO,NA,Sikh,NA,NA,Assault,YES,Religious
+2023,2023-05-04,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-05-06,D51,NO,"White, East/Southeast Asian",NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2023,2023-05-08,D22,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2023,2023-05-09,D32,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-05-09,D32,NO,East/Southeast Asian,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-05-10,D51,NO,NA,NA,2SLGBTQ+,NA,Fail To Comply Probation,YES,Sexual Orientation
+2023,2023-05-13,D13,NO,NA,Sikh,NA,NA,Assault,NO,Religious
+2023,2023-05-14,D51,NO,NA,Jewish,NA,NA,Criminal Harassment,YES,Religious
+2023,2023-05-15,D43,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-05-16,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-05-16,D41,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-05-17,D33,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2023,2023-05-17,D11,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-05-18,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-05-22,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-05-22,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-05-22,D53,NO,NA,Hindu,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-05-23,D55,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2023,2023-05-23,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-05-24,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-05-25,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-05-25,D53,NO,Black,NA,NA,NA,Harassing Communications,NO,Racial
+2023,2023-05-26,D13,NO,NA,NA,2SLGBTQ+,NA,Assault,YES,Sexual Orientation
+2023,2023-05-26,D42,NO,NA,Muslim,NA,NA,Wilful Promotion of Hatred,NO,Religious
+2023,2023-05-26,D14,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2023,2023-05-26,D43,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2023,2023-06-01,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-06-02,D33,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-06-02,D51,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-06-02,D22,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-06-03,D52,NO,East/Southeast Asian,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2023,2023-06-03,D52,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2023,2023-06-03,D41,NO,NA,NA,2SLGBTQ+,NA,Assault,NO,Sexual Orientation
+2023,2023-06-05,D31,NO,Black,NA,NA,NA,Mischief Interfere With Property,NO,Racial
+2023,2023-06-05,D42,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-06-06,D12,NO,East/Southeast Asian,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-06-07,D14,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-06-08,D53,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-06-08,D31,NO,Black,NA,NA,NA,Assault With a Weapon,YES,Racial
+2023,2023-06-09,D51,NO,"Black, Indigenous",NA,NA,NA,Assault,YES,Racial
+2023,2023-06-09,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-06-10,D55,NO,NA,NA,Lesbian,NA,Uttering Threats - Bodily Harm,YES,Sexual Orientation
+2023,2023-06-10,D11,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-06-11,D53,NO,East/Southeast Asian,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2023,2023-06-11,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-06-11,D41,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Uttering Threats - Bodily Harm,NO,Gender
+2023,2023-06-12,D31,NO,NA,NA,2SLGBTQ+,NA,Assault,NO,Sexual Orientation
+2023,2023-06-12,D53,NO,NA,NA,2SLGBTQ+,NA,Harassing Communications,NO,Sexual Orientation
+2023,2023-06-13,D55,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-06-15,D53,NO,South Asian,NA,NA,NA,Assault With a Weapon,YES,Racial
+2023,2023-06-16,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-06-16,D33,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2023,2023-06-17,D12,NO,East/Southeast Asian,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-06-18,D42,NO,Black,NA,NA,NA,Assault,NO,Racial
+2023,2023-06-19,D31,NO,NA,NA,Gay,NA,Criminal Harassment,NO,Sexual Orientation
+2023,2023-06-19,D13,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-06-19,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-06-19,D14,NO,Black,Jewish,2SLGBTQ+,NA,Mischief Under $5000,NO,Racial
+2023,2023-06-20,D13,NO,NA,NA,Gay,NA,Criminal Harassment,NO,Sexual Orientation
+2023,2023-06-22,D22,NO,NA,NA,Gay,NA,Assault,NO,Sexual Orientation
+2023,2023-06-23,D52,NO,NA,NA,2SLGBTQ+,NA,Wilful Promotion of Hatred,NO,Sexual Orientation
+2023,2023-06-23,D41,NO,South Asian,NA,NA,NA,Assault,NO,Racial
+2023,2023-06-23,D55,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,YES,Sexual Orientation
+2023,2023-06-25,D42,NO,NA,NA,2SLGBTQ+,NA,Theft,NO,Sexual Orientation
+2023,2023-06-26,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-06-27,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-06-28,D42,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-06-28,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-06-30,D53,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-06-30,D53,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-07-01,D32,NO,Black,NA,NA,NA,Harassing Communications,NO,Racial
+2023,2023-07-01,D51,NO,NA,NA,NA,NA,Assault,YES,Age
+2023,2023-07-01,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-01,D12,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Uttering Threats - Bodily Harm,NO,Gender
+2023,2023-07-02,D32,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2023,2023-07-02,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-03,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-06,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-07-06,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-07,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-08,D31,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-07-09,D33,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-07-09,D51,NO,East/Southeast Asian,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2023,2023-07-10,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-07-13,D22,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-07-15,D14,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-07-18,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-19,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-19,D11,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-07-20,D32,NO,NA,Muslim,NA,NA,Aggravated Assault,YES,Religious
+2023,2023-07-21,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-23,D55,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2023,2023-07-23,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-25,D11,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-26,D51,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-07-26,D11,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-07-27,D13,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,YES,Sexual Orientation
+2023,2023-07-29,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-07-29,D52,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-08-01,D55,NO,NA,NA,Lesbian,NA,Uttering Threats - Property,YES,Sexual Orientation
+2023,2023-08-03,D41,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-08-05,D13,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-08-08,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-08-08,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-08-10,D33,NO,Black,NA,NA,NA,Criminal Harassment,YES,Racial
+2023,2023-08-11,D55,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-08-12,D11,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2023,2023-08-14,D42,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2023,2023-08-16,D32,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2023,2023-08-21,D32,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-08-26,D42,NO,NA,NA,Gay,NA,Assault With a Weapon,YES,Sexual Orientation
+2023,2023-08-26,D51,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault,NO,Gender
+2023,2023-08-27,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-08-27,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-08-28,D31,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-08-28,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-08-30,D55,NO,White,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2023,2023-08-31,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-02,D32,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",YES,Religious
+2023,2023-09-02,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-02,D31,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2023,2023-09-03,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-03,D22,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-03,D33,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-09-06,D13,NO,NA,NA,2SLGBTQ+,NA,Assault,NO,Sexual Orientation
+2023,2023-09-07,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-07,D52,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-09-12,D14,NO,NA,NA,NA,NA,Criminal Harassment,NO,Age
+2023,2023-09-13,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-13,D43,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2023,2023-09-15,D42,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-15,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-15,D14,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-09-16,D52,NO,NA,NA,Gay,NA,Uttering Threats - Bodily Harm,NO,Sexual Orientation
+2023,2023-09-16,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-17,D11,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-09-17,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-09-18,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-18,D13,NO,NA,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Religious
+2023,2023-09-19,D23,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-09-20,D32,NO,South Asian,NA,NA,NA,Assault,NO,Racial
+2023,2023-09-21,D53,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2023,2023-09-21,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-09-21,D31,NO,NA,NA,2SLGBTQ+,NA,Mischief Interfere With Property,NO,Sexual Orientation
+2023,2023-09-25,D55,NO,NA,NA,NA,NA,Assault,YES,Age
+2023,2023-09-25,D53,NO,NA,NA,2SLGBTQ+,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-09-26,D52,NO,NA,NA,2SLGBTQ+,NA,Assault,NO,Sexual Orientation
+2023,2023-09-27,D52,NO,NA,NA,2SLGBTQ+,NA,Harassing Communications,YES,Sexual Orientation
+2023,2023-09-29,D31,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-09-29,D11,NO,NA,NA,NA,Transgender,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Gender
+2023,2023-09-30,D51,NO,NA,Muslim,NA,NA,Criminal Harassment,NO,Religious
+2023,2023-09-30,D53,NO,Black,NA,NA,Transgender,Harassing Communications,NO,Racial
+2023,2023-10-01,D22,NO,NA,NA,NA,NA,Theft,NO,Age
+2023,2023-10-04,NSA,NO,Black,NA,NA,NA,Assault,NO,Racial
+2023,2023-10-06,D55,NO,NA,Muslim,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",YES,Religious
+2023,2023-10-07,D53,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Age
+2023,2023-10-07,D53,NO,NA,NA,Gay,NA,Criminal Harassment,NO,Sexual Orientation
+2023,2023-10-08,D52,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2023,2023-10-11,D13,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-10-12,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2023,2023-10-12,D55,NO,NA,Muslim,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",YES,Religious
+2023,2023-10-15,D14,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-10-15,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-10-15,D13,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-10-15,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-10-15,D23,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-10-15,D14,NO,NA,NA,Gay,NA,Assault With a Weapon,NO,Sexual Orientation
+2023,2023-10-16,D42,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-10-16,D14,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-10-17,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-10-17,D53,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Racial
+2023,2023-10-17,D55,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-10-20,D14,NO,NA,Jewish,NA,NA,Indecent Communications,NO,Religious
+2023,2023-10-20,D53,NO,NA,Jewish,NA,Transgender,Mischief Under $5000,NO,Religious
+2023,2023-10-20,D53,NO,NA,NA,NA,Transgender,Assault With a Weapon,NO,Gender
+2023,2023-10-20,D14,NO,Other race not mentioned,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-10-21,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-10-21,D52,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-10-21,D52,NO,NA,Muslim,NA,NA,Assault,NO,Religious
+2023,2023-10-22,D42,NO,White,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-10-25,D52,NO,NA,Jewish,NA,NA,Assault,YES,Religious
+2023,2023-10-25,D41,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-10-25,D41,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-10-26,D22,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-10-26,D32,NO,NA,Hindu,2SLGBTQ+,NA,Mischief Under $5000,NO,Religious
+2023,2023-10-27,D41,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-10-27,D52,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2023,2023-10-28,D53,NO,NA,NA,NA,NA,Uttering Threats - Property,NO,Age
+2023,2023-10-29,D52,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-10-29,D31,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-10-30,D52,NO,NA,Jewish,NA,NA,Disturbing Religious Worship Or Certain Meetings,NO,Religious
+2023,2023-10-30,D32,NO,NA,Jewish,NA,NA,Assault,NO,Religious
+2023,2023-10-31,D51,NO,NA,NA,Gay,NA,Assault With a Weapon,YES,Sexual Orientation
+2023,2023-10-31,D14,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-01,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-11-01,D33,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2023,2023-11-01,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-11-02,D32,NO,NA,NA,NA,NA,Assault,YES,Age
+2023,2023-11-02,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-02,D11,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-11-02,D14,NO,NA,NA,Gay,NA,Criminal Harassment,NO,Sexual Orientation
+2023,2023-11-05,D52,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-11-05,D53,NO,NA,NA,NA,NA,Assault With a Weapon,YES,Age
+2023,2023-11-05,D32,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2023,2023-11-05,D42,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-05,D43,NO,NA,Muslim,NA,NA,Criminal Harassment,NO,Religious
+2023,2023-11-06,D51,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,NO,Religious
+2023,2023-11-06,D42,NO,Black,Jewish,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-11-06,D33,NO,NA,Jewish,NA,NA,Indecent Communications,NO,Religious
+2023,2023-11-08,D51,NO,NA,NA,NA,Transgender Woman (Identifies As Woman),Assault With a Weapon,YES,Gender
+2023,2023-11-08,D32,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-11-09,D11,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-11-09,D22,NO,NA,Muslim,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-10,D14,NO,South Asian,NA,NA,NA,Criminal Harassment,NO,Racial
+2023,2023-11-10,D55,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-11,D13,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2023,2023-11-13,D31,NO,NA,NA,2SLGBTQ+,NA,Assault With a Weapon,YES,Sexual Orientation
+2023,2023-11-15,D52,NO,NA,NA,NA,NA,Assault With a Weapon,YES,Age
+2023,2023-11-15,D52,NO,NA,Muslim,NA,NA,Assault With a Weapon,YES,Religious
+2023,2023-11-16,D53,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-17,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-17,D31,NO,Black,Muslim,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-11-17,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-11-18,D53,NO,NA,Muslim,NA,NA,Assault With a Weapon,YES,Religious
+2023,2023-11-19,D32,NO,NA,Jewish,NA,NA,"Mischief To Religious Property, Educational Institutions, Etc.",NO,Religious
+2023,2023-11-20,D51,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2023,2023-11-20,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-20,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-21,D33,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-22,D51,NO,NA,NA,Gay,NA,Mischief Under $5000,NO,Sexual Orientation
+2023,2023-11-22,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-22,D52,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-11-24,D52,NO,NA,NA,Gay,NA,Assault With a Weapon,NO,Sexual Orientation
+2023,2023-11-24,D31,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-11-24,D32,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2023,2023-11-27,D53,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-11-30,D53,NO,NA,NA,NA,NA,Indecent Communications,NO,Age
+2023,2023-11-30,D32,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2023,2023-12-01,D55,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2023,2023-12-02,D53,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,YES,Religious
+2023,2023-12-02,D11,NO,South Asian,NA,2SLGBTQ+,NA,Mischief Interfere With Property,YES,Racial
+2023,2023-12-04,D55,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-12-05,D32,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2023,2023-12-06,D32,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-12-07,D32,NO,NA,Jewish,NA,NA,Uttering Threats - Bodily Harm,NO,Religious
+2023,2023-12-07,D32,NO,NA,Jewish,NA,NA,Harassing Communications,NO,Religious
+2023,2023-12-10,D51,NO,NA,Jewish,NA,NA,Mischief Under $5000,YES,Religious
+2023,2023-12-11,D52,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-12-12,D11,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-12-14,D11,NO,Black,NA,NA,NA,Mischief Under $5000,NO,Racial
+2023,2023-12-14,D32,NO,NA,Jewish,NA,NA,Assault,NO,Religious
+2023,2023-12-15,D32,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
+2023,2023-12-17,D52,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,NO,Age
+2023,2023-12-18,D13,NO,NA,Jewish,NA,NA,Mischief Interfere With Property,YES,Religious
+2023,2023-12-19,D42,NO,NA,Jewish,NA,NA,Mischief Under $5000,NO,Religious
+2023,2023-12-19,D52,NO,East/Southeast Asian,NA,NA,NA,Assault,NO,Racial
+2023,2023-12-20,D43,NO,NA,Muslim,NA,NA,Uttering Threats - Bodily Harm,YES,Religious
+2023,2023-12-21,D51,NO,NA,NA,NA,Transgender,Mischief Under $5000,NO,Gender
+2023,2023-12-24,D32,NO,NA,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Age
+2023,2023-12-24,D32,NO,NA,NA,NA,NA,Mischief Under $5000,NO,Age
+2023,2023-12-25,D14,NO,NA,NA,Gay,NA,Assault,YES,Sexual Orientation
+2023,2023-12-28,D51,NO,NA,NA,2SLGBTQ+,NA,Uttering Threats - Bodily Harm,YES,Sexual Orientation
+2023,2023-12-29,D14,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-12-29,D31,NO,NA,NA,NA,NA,Assault,NO,Age
+2023,2023-12-30,D52,NO,NA,NA,NA,NA,Mischief Interfere With Property,NO,Age
+2023,2023-12-30,D51,NO,Black,NA,NA,NA,Uttering Threats - Bodily Harm,YES,Racial
